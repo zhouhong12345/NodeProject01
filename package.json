@@ -1,0 +1,22 @@
+{
+  "name": "nodeproject01",
+  "version": "1.0.0",
+  "description": "金庸小说主要是指金庸的武侠小说，共计，十五部，它们可以由这几句话描述：\"飞雪连天射白鹿，笑书神侠倚碧鸳。\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouhong12345/NodeProject01.git"
+  },
+  "author": "zhouhong12345",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhouhong12345/NodeProject01/issues"
+  },
+  "homepage": "https://github.com/zhouhong12345/NodeProject01#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
